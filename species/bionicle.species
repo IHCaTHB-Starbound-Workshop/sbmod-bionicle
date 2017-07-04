@@ -3,13 +3,13 @@
   "kind" : "bionicle",
   "charCreationTooltip" : {
     "title" : "bionicle",
-    "subTitle" : "Minimalist Race Mod Template",
-    "description" : "Species that utilize existing assets where it can."
+    "subTitle" : "LeBi",
+    "description" : "Biomechanical creatures from a world known as Matoran. They are driven by a sense of honor and a search for purpose."
   },
 
   "nameGen" : [ "/species/bioniclenamegen.config:names", "/species/bioniclenamegen.config:names" ],
   "ouchNoises" : [ "/sfx/humanoid/bioniclehurt_male1.ogg", "/sfx/humanoid/bioniclehurt_female1.ogg" ],
-  "charGenTextLabels" : [ "Paint colour", "Head mod", "Shirt", "Legwear", "Lights colour", "Detail colour", "Shirt colour", "Legwear colour", "bionicle", "Personality" ],
+  "charGenTextLabels" : [ "Paint colour", "Mask", "Shirt", "Legwear", "Lights colour", "Detail colour", "Shirt colour", "Legwear colour", "bionicle", "Personality" ],
   "skull" : "/humanoid/glitch/dead.png",
   "effectDirectives" : "?replace=FEFFFFFF=FFFFFFFF?replace=9bd4ffFF=ffbc47FF?replace=31a6ffFF=e87b07FF",
   "defaultBlueprints" : {
